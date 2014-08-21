@@ -1,0 +1,9226 @@
+	// noobhud colors
+		"k_white" "222 222 222 255" // Base HP
+		"k_blue"  "000 175 255 255" // BLU team // Default is 000 175 255 255
+		"k_red" " 225 000 000 255" // RED team // Default is 225 000 000 255
+		"k_black" "8 8 8 255"  // HP Shadow
+		"k_green" "105 235 0 255" // Buff
+		"k_orange" "255 100 0 255" // Hurt
+		"k_pink" "255 000 255 255"
+		"k_purple" "102 000 185 255"
+		"k_dkgreen "0 185 0 255"
+		"k_yellow" "255 255 000 255"
+		"k_fullwhite" "255 255 255 255"
+		"k_fullblack" "000 000 000 255"
+		
+		"k_gray" "58 58 58 255"
+		"k_ltgray" "69 69 69 255"
+		"k_dkgray" "27 27 27 255"	
+
+	"RegularOL8"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"8"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+				"outline" "1"                      
+			}
+		}
+			"RegularOL9"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"9"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"RegularOL10"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"10"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"RegularOL11"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"11"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"RegularOL12"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"12"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"RegularOL13"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"13"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"RegularOL14"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"14"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"RegularOL15"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"15"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"RegularOL16"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"16"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"RegularOL17"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"17"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"RegularOL18"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"18"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"RegularOL19"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"19"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"RegularOL20"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"20"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"RegularOL21"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"21"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"RegularOL22"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"22"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"RegularOL23"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"23"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"RegularOL24"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"24"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"RegularOL25"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"25"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"RegularOL26"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"26"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"RegularOL27"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"27"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"RegularOL28"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"28"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"RegularOL29"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"29"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"RegularOL30"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"30"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"RegularOL31"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"31"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"RegularOL32"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"32"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"RegularOL33"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"33"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"RegularOL34"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"34"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"RegularOL35"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"35"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"RegularOL36"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"36"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"RegularOL37"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"37"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"RegularOL38"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"38"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"RegularOL39"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"39"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"RegularOL40"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"40"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"RegularOL41"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"41"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"RegularOL42"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"42"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"RegularOL43"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"43"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"RegularOL44"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"44"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"RegularOL45"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"45"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"RegularOL46"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"46"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"RegularOL47"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"47"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"RegularOL48"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"48"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"RegularOL49"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"49"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"RegularOL50"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"50"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"RegularOL51"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"51"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"RegularOL52"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"52"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"RegularOL53"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"53"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"RegularOL54"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"54"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"RegularOL55"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"55"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"RegularOL56"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"56"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"RegularOL57"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"57"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"RegularOL58"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"58"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"RegularOL59"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"59"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+										"RegularOL60"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"60"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"RegularOL61"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"61"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"RegularOL62"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"62"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"RegularOL63"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"63"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+														"RegularOL64"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"64"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BoldOL8"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"8"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL9"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"9"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL10"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"10"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL11"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"11"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BoldOL12"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"12"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL13"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"13"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL14"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"14"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BoldOL15"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"15"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BoldOL16"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"16"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BoldOL17"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"17"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"BoldOL18"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"18"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"BoldOL19"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"19"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BoldOL20"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"20"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL21"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"21"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BoldOL22"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"22"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL23"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"23"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL24"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"24"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BoldOL25"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"25"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BoldOL26"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"26"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BoldOL27"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"27"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"BoldOL28"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"28"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"BoldOL29"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"29"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BoldOL30"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"30"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL31"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"31"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BoldOL32"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"32"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL33"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"33"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL34"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"34"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BoldOL35"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"35"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BoldOL36"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"36"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BoldOL37"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"37"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"BoldOL38"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"38"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"BoldOL39"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"39"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BoldOL40"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"40"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL41"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"41"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BoldOL42"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"42"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL43"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"43"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL44"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"44"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BoldOL45"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"45"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BoldOL46"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"46"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BoldOL47"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"47"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"BoldOL48"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"48"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"BoldOL49"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"49"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BoldOL50"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"50"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL51"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"51"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BoldOL52"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"52"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL53"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"53"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BoldOL54"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"54"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BoldOL55"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"55"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BoldOL56"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"56"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BoldOL57"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"57"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"BoldOL58"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"58"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"BoldOL59"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"59"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+										"BoldOL60"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"60"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"BoldOL61"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"61"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"BoldOL62"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"62"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"BoldOL63"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"63"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+														"BoldOL64"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"64"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BlackOL8"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"8"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL9"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"9"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL10"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"10"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL11"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"11"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BlackOL12"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"12"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL13"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"13"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL14"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"14"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BlackOL15"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"15"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BlackOL16"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"16"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BlackOL17"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"17"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"BlackOL18"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"18"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"BlackOL19"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"19"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BlackOL20"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"20"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL21"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"21"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BlackOL22"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"22"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL23"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"23"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL24"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"24"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BlackOL25"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"25"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BlackOL26"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"26"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BlackOL27"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"27"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"BlackOL28"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"28"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"BlackOL29"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"29"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BlackOL30"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"30"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL31"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"31"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BlackOL32"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"32"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL33"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"33"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL34"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"34"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BlackOL35"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"35"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BlackOL36"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"36"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BlackOL37"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"37"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"BlackOL38"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"38"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"BlackOL39"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"39"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BlackOL40"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"40"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL41"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"41"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BlackOL42"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"42"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL43"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"43"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL44"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"44"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BlackOL45"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"45"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BlackOL46"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"46"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BlackOL47"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"47"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"BlackOL48"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"48"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"BlackOL49"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"49"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BlackOL50"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"50"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL51"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"51"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BlackOL52"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"52"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL53"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"53"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"BlackOL54"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"54"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"BlackOL55"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"55"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BlackOL56"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"56"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"BlackOL57"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"57"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"BlackOL58"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"58"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"BlackOL59"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"59"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+										"BlackOL60"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"60"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"BlackOL61"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"61"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"BlackOL62"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"62"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"BlackOL63"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"63"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+														"BlackOL64"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"64"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"NoobHUDHeartIcon"
+		{
+			"1"
+			{
+				"name"		"HEART shapes"
+				"tall"		"50"
+				"weight"	"500"
+				"additive"	"0"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"ThinOL8"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL9"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL10"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL11"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+				"ThinOL12"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL13"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"13"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL14"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+				"ThinOL15"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"15"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+					"ThinOL16"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+					"ThinOL17"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"17"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+						"ThinOL18"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+								"ThinOL19"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"19"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+					"ThinOL20"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL21"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"21"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+				"ThinOL22"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"22"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL23"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"23"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL24"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+				"ThinOL25"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"25"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+					"ThinOL26"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+					"ThinOL27"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"27"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+						"ThinOL28"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+								"ThinOL29"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"29"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+					"ThinOL30"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL31"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"31"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+				"ThinOL32"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL33"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"33"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL34"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"34"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+				"ThinOL35"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"35"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+					"ThinOL36"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+					"ThinOL37"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"37"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+						"ThinOL38"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+								"ThinOL39"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"39"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+					"ThinOL40"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL41"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"41"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+				"ThinOL42"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL43"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"43"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL44"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+				"ThinOL45"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"45"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+					"ThinOL46"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"46"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+					"ThinOL47"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"47"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+						"ThinOL48"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+								"ThinOL49"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"49"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+					"ThinOL50"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL51"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"51"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+				"ThinOL52"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL53"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"53"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+			"ThinOL54"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"54"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+				"ThinOL55"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"55"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+					"ThinOL56"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+					"ThinOL57"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"57"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+						"ThinOL58"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"58"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+								"ThinOL59"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"59"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+										"ThinOL60"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+												"ThinOL61"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"61"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+												"ThinOL62"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"62"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+												"ThinOL63"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"63"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+														"ThinOL64"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias" "1" "outline" "1"
+			}
+		}
+				"LightOL8"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"8"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL9"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"9"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL10"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"10"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL11"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"11"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"LightOL12"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"12"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL13"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"13"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL14"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"14"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"LightOL15"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"15"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"LightOL16"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"16"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"LightOL17"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"17"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"LightOL18"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"18"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"LightOL19"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"19"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"LightOL20"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"20"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL21"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"21"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"LightOL22"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"22"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL23"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"23"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL24"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"24"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"LightOL25"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"25"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"LightOL26"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"26"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"LightOL27"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"27"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"LightOL28"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"28"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"LightOL29"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"29"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"LightOL30"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"30"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL31"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"31"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"LightOL32"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"32"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL33"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"33"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL34"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"34"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"LightOL35"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"35"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"LightOL36"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"36"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"LightOL37"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"37"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"LightOL38"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"38"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"LightOL39"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"39"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"LightOL40"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"40"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL41"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"41"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"LightOL42"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"42"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL43"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"43"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL44"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"44"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"LightOL45"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"45"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"LightOL46"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"46"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"LightOL47"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"47"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"LightOL48"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"48"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"LightOL49"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"49"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"LightOL50"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"50"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL51"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"51"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"LightOL52"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"52"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL53"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"53"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"LightOL54"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"54"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"LightOL55"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"55"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"LightOL56"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"56"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"LightOL57"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"57"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"LightOL58"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"58"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"LightOL59"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"59"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+										"LightOL60"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"60"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"LightOL61"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"61"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"LightOL62"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"62"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"LightOL63"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"63"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+														"LightOL64"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"64"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondLight8"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"8"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight9"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"9"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight10"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"10"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight11"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"11"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondLight12"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"12"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight13"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"13"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight14"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"14"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondLight15"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"15"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondLight16"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"16"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondLight17"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"17"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"OLCondLight18"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"18"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"OLCondLight19"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"19"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondLight20"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"20"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight21"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"21"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondLight22"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"22"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight23"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"23"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight24"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"24"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondLight25"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"25"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondLight26"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"26"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondLight27"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"27"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"OLCondLight28"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"28"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"OLCondLight29"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"29"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondLight30"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"30"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight31"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"31"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondLight32"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"32"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight33"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"33"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight34"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"34"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondLight35"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"35"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondLight36"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"36"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondLight37"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"37"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"OLCondLight38"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"38"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"OLCondLight39"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"39"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondLight40"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"40"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight41"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"41"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondLight42"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"42"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight43"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"43"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight44"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"44"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondLight45"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"45"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondLight46"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"46"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondLight47"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"47"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"OLCondLight48"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"48"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"OLCondLight49"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"49"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondLight50"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"50"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight51"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"51"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondLight52"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"52"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight53"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"53"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondLight54"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"54"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondLight55"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"55"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondLight56"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"56"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondLight57"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"57"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"OLCondLight58"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"58"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"OLCondLight59"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"59"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+										"OLCondLight60"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"60"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"OLCondLight61"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"61"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"OLCondLight62"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"62"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"OLCondLight63"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"63"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+														"OLCondLight64"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"64"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondRegular8"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"8"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular9"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"9"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular10"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"10"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular11"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"11"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondRegular12"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"12"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular13"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"13"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular14"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"14"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondRegular15"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"15"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondRegular16"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"16"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondRegular17"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"17"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"OLCondRegular18"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"18"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"OLCondRegular19"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"19"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondRegular20"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"20"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular21"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"21"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondRegular22"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"22"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular23"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"23"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular24"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"24"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondRegular25"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"25"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondRegular26"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"26"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondRegular27"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"27"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"OLCondRegular28"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"28"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"OLCondRegular29"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"29"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondRegular30"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"30"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular31"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"31"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondRegular32"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"32"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular33"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"33"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular34"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"34"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondRegular35"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"35"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondRegular36"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"36"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondRegular37"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"37"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"OLCondRegular38"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"38"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"OLCondRegular39"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"39"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondRegular40"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"40"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular41"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"41"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondRegular42"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"42"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular43"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"43"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular44"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"44"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondRegular45"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"45"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondRegular46"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"46"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondRegular47"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"47"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"OLCondRegular48"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"48"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"OLCondRegular49"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"49"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondRegular50"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"50"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular51"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"51"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondRegular52"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"52"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular53"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"53"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondRegular54"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"54"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondRegular55"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"55"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondRegular56"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"56"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondRegular57"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"57"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"OLCondRegular58"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"58"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"OLCondRegular59"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"59"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+										"OLCondRegular60"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"60"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"OLCondRegular61"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"61"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"OLCondRegular62"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"62"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"OLCondRegular63"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"63"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+														"OLCondRegular64"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"64"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondBold8"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"8"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold9"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"9"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold10"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"10"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold11"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"11"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondBold12"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"12"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold13"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"13"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold14"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"14"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondBold15"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"15"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondBold16"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"16"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondBold17"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"17"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"OLCondBold18"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"18"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"OLCondBold19"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"19"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondBold20"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"20"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold21"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"21"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondBold22"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"22"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold23"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"23"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold24"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"24"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondBold25"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"25"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondBold26"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"26"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondBold27"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"27"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"OLCondBold28"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"28"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"OLCondBold29"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"29"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondBold30"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"30"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold31"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"31"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondBold32"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"32"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold33"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"33"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold34"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"34"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondBold35"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"35"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondBold36"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"36"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondBold37"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"37"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"OLCondBold38"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"38"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"OLCondBold39"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"39"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondBold40"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"40"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold41"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"41"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondBold42"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"42"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold43"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"43"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold44"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"44"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondBold45"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"45"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondBold46"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"46"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondBold47"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"47"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"OLCondBold48"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"48"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"OLCondBold49"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"49"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondBold50"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"50"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold51"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"51"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondBold52"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"52"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold53"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"53"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+			"OLCondBold54"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"54"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+				"OLCondBold55"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"55"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondBold56"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"56"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+					"OLCondBold57"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"57"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+						"OLCondBold58"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"58"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+								"OLCondBold59"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"59"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+										"OLCondBold60"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"60"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"OLCondBold61"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"61"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"OLCondBold62"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"62"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+												"OLCondBold63"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"63"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+														"OLCondBold64"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"64"
+				"weight"	"500"
+								"antialias" "1" "outline" "1"
+			}
+		}
+		"Regular8"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular9"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular10"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular11"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Regular12"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular13"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"13"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular14"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Regular15"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"15"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Regular16"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Regular17"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"17"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Regular18"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Regular19"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"19"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Regular20"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular21"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"21"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Regular22"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"22"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular23"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"23"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular24"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Regular25"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"25"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Regular26"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Regular27"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"27"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Regular28"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Regular29"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"29"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Regular30"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular31"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"31"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Regular32"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular33"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"33"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular34"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"34"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Regular35"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"35"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Regular36"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Regular37"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"37"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Regular38"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Regular39"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"39"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Regular40"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular41"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"41"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Regular42"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular43"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"43"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular44"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Regular45"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"45"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Regular46"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"46"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Regular47"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"47"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Regular48"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Regular49"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"49"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Regular50"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular51"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"51"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Regular52"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular53"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"53"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Regular54"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"54"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Regular55"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"55"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Regular56"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Regular57"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"57"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Regular58"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"58"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Regular59"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"59"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+										"Regular60"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Regular61"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"61"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Regular62"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"62"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Regular63"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"63"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+														"Regular64"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Bold8"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold9"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold10"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold11"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Bold12"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold13"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"13"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold14"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Bold15"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"15"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Bold16"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Bold17"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"17"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Bold18"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Bold19"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"19"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Bold20"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold21"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"21"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Bold22"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"22"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold23"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"23"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold24"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Bold25"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"25"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Bold26"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Bold27"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"27"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Bold28"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Bold29"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"29"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Bold30"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold31"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"31"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Bold32"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold33"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"33"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold34"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"34"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Bold35"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"35"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Bold36"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Bold37"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"37"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Bold38"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Bold39"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"39"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Bold40"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold41"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"41"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Bold42"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold43"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"43"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold44"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Bold45"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"45"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Bold46"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"46"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Bold47"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"47"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Bold48"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Bold49"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"49"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Bold50"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold51"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"51"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Bold52"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold53"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"53"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Bold54"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"54"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Bold55"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"55"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Bold56"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Bold57"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"57"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Bold58"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"58"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Bold59"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"59"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+										"Bold60"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Bold61"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"61"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Bold62"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"62"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Bold63"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"63"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+														"Bold64"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Black8"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black9"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black10"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black11"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Black12"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black13"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"13"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black14"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Black15"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"15"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Black16"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Black17"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"17"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Black18"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Black19"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"19"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Black20"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black21"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"21"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Black22"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"22"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black23"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"23"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black24"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Black25"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"25"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Black26"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Black27"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"27"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Black28"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Black29"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"29"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Black30"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black31"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"31"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Black32"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black33"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"33"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black34"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"34"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Black35"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"35"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Black36"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Black37"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"37"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Black38"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Black39"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"39"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Black40"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black41"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"41"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Black42"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black43"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"43"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black44"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Black45"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"45"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Black46"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"46"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Black47"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"47"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Black48"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Black49"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"49"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Black50"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black51"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"51"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Black52"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black53"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"53"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Black54"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"54"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Black55"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"55"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Black56"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Black57"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"57"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Black58"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"58"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Black59"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"59"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+										"Black60"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Black61"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"61"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Black62"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"62"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Black63"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"63"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+														"Black64"
+		{
+			"1"
+			{
+				"name"		"Roboto Black"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"NoobHUDHeartIcon"
+		{
+			"1"
+			{
+				"name"		"HEART shapes"
+				"tall"		"50"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+				"Thin8"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin9"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin10"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin11"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Thin12"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin13"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"13"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin14"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Thin15"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"15"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Thin16"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Thin17"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"17"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Thin18"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Thin19"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"19"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Thin20"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin21"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"21"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Thin22"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"22"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin23"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"23"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin24"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Thin25"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"25"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Thin26"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Thin27"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"27"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Thin28"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Thin29"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"29"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Thin30"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin31"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"31"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Thin32"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin33"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"33"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin34"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"34"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Thin35"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"35"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Thin36"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Thin37"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"37"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Thin38"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Thin39"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"39"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Thin40"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin41"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"41"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Thin42"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin43"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"43"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin44"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Thin45"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"45"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Thin46"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"46"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Thin47"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"47"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Thin48"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Thin49"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"49"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Thin50"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin51"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"51"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Thin52"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin53"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"53"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Thin54"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"54"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Thin55"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"55"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Thin56"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Thin57"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"57"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Thin58"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"58"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Thin59"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"59"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+										"Thin60"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Thin61"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"61"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Thin62"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"62"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Thin63"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"63"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+														"Thin64"
+		{
+			"1"
+			{
+				"name"		"Roboto Thin"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Light8"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light9"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light10"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light11"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Light12"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light13"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"13"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light14"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Light15"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"15"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Light16"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Light17"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"17"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Light18"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Light19"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"19"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Light20"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light21"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"21"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Light22"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"22"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light23"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"23"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light24"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Light25"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"25"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Light26"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Light27"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"27"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Light28"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Light29"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"29"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Light30"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light31"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"31"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Light32"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light33"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"33"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light34"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"34"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Light35"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"35"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Light36"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Light37"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"37"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Light38"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Light39"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"39"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Light40"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light41"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"41"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Light42"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light43"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"43"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light44"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Light45"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"45"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Light46"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"46"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Light47"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"47"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Light48"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Light49"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"49"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Light50"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light51"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"51"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Light52"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light53"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"53"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Light54"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"54"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Light55"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"55"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Light56"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Light57"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"57"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Light58"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"58"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Light59"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"59"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+										"Light60"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Light61"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"61"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Light62"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"62"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Light63"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"63"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+														"Light64"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondLight8"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight9"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight10"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight11"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondLight12"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight13"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"13"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight14"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondLight15"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"15"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondLight16"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondLight17"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"17"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"CondLight18"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"CondLight19"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"19"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondLight20"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight21"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"21"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondLight22"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"22"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight23"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"23"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight24"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondLight25"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"25"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondLight26"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondLight27"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"27"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"CondLight28"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"CondLight29"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"29"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondLight30"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight31"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"31"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondLight32"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight33"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"33"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight34"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"34"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondLight35"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"35"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondLight36"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondLight37"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"37"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"CondLight38"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"CondLight39"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"39"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondLight40"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight41"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"41"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondLight42"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight43"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"43"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight44"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondLight45"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"45"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondLight46"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"46"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondLight47"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"47"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"CondLight48"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"CondLight49"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"49"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondLight50"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight51"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"51"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondLight52"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight53"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"53"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondLight54"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"54"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondLight55"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"55"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondLight56"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondLight57"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"57"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"CondLight58"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"58"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"CondLight59"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"59"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+										"CondLight60"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"CondLight61"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"61"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"CondLight62"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"62"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"CondLight63"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"63"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+														"CondLight64"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Light"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondRegular8"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular9"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular10"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular11"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondRegular12"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular13"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"13"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular14"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondRegular15"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"15"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondRegular16"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondRegular17"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"17"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"CondRegular18"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"CondRegular19"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"19"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondRegular20"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular21"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"21"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondRegular22"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"22"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular23"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"23"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular24"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondRegular25"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"25"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondRegular26"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondRegular27"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"27"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"CondRegular28"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"CondRegular29"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"29"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondRegular30"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular31"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"31"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondRegular32"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular33"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"33"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular34"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"34"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondRegular35"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"35"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondRegular36"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondRegular37"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"37"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"CondRegular38"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"CondRegular39"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"39"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondRegular40"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular41"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"41"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondRegular42"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular43"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"43"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular44"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondRegular45"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"45"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondRegular46"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"46"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondRegular47"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"47"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"CondRegular48"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"CondRegular49"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"49"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondRegular50"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular51"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"51"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondRegular52"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular53"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"53"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondRegular54"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"54"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondRegular55"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"55"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondRegular56"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondRegular57"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"57"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"CondRegular58"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"58"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"CondRegular59"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"59"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+										"CondRegular60"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"CondRegular61"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"61"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"CondRegular62"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"62"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"CondRegular63"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"63"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+														"CondRegular64"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Regular"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondBold8"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold9"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold10"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold11"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondBold12"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold13"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"13"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold14"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondBold15"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"15"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondBold16"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondBold17"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"17"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"CondBold18"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"CondBold19"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"19"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondBold20"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold21"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"21"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondBold22"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"22"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold23"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"23"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold24"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondBold25"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"25"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondBold26"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondBold27"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"27"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"CondBold28"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"CondBold29"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"29"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondBold30"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold31"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"31"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondBold32"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold33"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"33"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold34"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"34"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondBold35"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"35"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondBold36"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondBold37"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"37"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"CondBold38"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"CondBold39"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"39"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondBold40"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold41"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"41"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondBold42"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold43"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"43"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold44"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondBold45"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"45"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondBold46"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"46"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondBold47"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"47"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"CondBold48"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"CondBold49"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"49"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondBold50"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold51"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"51"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondBold52"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold53"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"53"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"CondBold54"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"54"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"CondBold55"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"55"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondBold56"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"CondBold57"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"57"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"CondBold58"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"58"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"CondBold59"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"59"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+										"CondBold60"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"CondBold61"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"61"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"CondBold62"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"62"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"CondBold63"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"63"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+														"CondBold64"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+			"1"
+			{
+			"font" "resource/fonts/Roboto-Regular.ttf"
+			"name" "Roboto Regular"
+			}
+			
+			"2"
+			{
+			"font" "resource/fonts/Roboto-Bold.ttf"
+			"name" "Roboto Bold"
+			}
+
+			"3"
+			{
+			"font" "resource/fonts/Roboto-Thin.ttf"
+			"name" "Roboto Thin"
+			}
+
+			"4"
+			{
+			"font" "resource/fonts/Roboto-Medium.ttf"
+			"name" "Roboto Medium"
+			}
+			
+			"5"
+			{
+			"font" "resource/fonts/Roboto-Black.ttf"
+			"name" "Roboto Black"
+			}
+			
+			"6"
+			{
+			"font" "resource/fonts/Roboto-Light.ttf"
+			"name" "Roboto Light"
+			}
+			
+			"7"
+			{
+			"font" "resource/fonts/RobotoCondensed-Bold.ttf"
+			"name" "Roboto Condensed Light"
+			}
+			
+			"8"
+			{
+			"font" "resource/fonts/RobotoCondensed-Regular.ttf"
+			"name" "Roboto Condensed Regular"
+			}
+			
+			"9"
+			{
+			"font" "resource/fonts/RobotoCondensed-Light.ttf"
+			"name" "Roboto Condensed Light"
+			}
+				"10"
+			{
+			"font" "resource/fonts/icons.ttf"
+			"name" "Hearts for 3D FX"
+			}
+				"11"
+			{
+			"font" "resource/fonts/icons2.ttf"
+			"name" "Militaria"
+			}
+}
